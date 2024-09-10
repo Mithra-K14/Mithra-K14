@@ -14,7 +14,7 @@ I am currently pursuing my undergraduate degree in Software Systems at Sri Krish
 ## Get in Touch
 
 - 📧 Email: [mithrak1409@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/ mithra-k14/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/mithra-k14/]
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or just want to chat about coding and technology. 🚀
 
