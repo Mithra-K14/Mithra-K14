@@ -22,12 +22,6 @@ I am a Software Systems graduate from Sri Krishna Arts and Science College, Coim
 - Enhance cloud and ETL development skills
 - Contribute to impactful technology solutions
 
-## Get in Touch
-
-- 📧 Email: [mithrak1409@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/mithra-k14/]
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions.
 ---
-
-*Made by Mithra K*
